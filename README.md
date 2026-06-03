@@ -2,7 +2,7 @@
 
 A web app that uses AI to analyze your bank transactions and generate spending insights, charts, and personalized financial summaries.
 
-## What it does
+## What It Does
 
 Upload a CSV export from your bank and the app automatically:
 - Categorizes every transaction using Google Gemini AI
@@ -14,6 +14,11 @@ Upload a CSV export from your bank and the app automatically:
 ## Demo
 
 <img width="3420" height="1962" alt="image" src="https://github.com/user-attachments/assets/136a99fc-3ac5-4995-a3b3-eb53681836a0" />
+
+## Example With A Real CSV
+
+<img width="708" height="1426" alt="image" src="https://github.com/user-attachments/assets/5e6cce48-aaea-44bf-9ef9-bb53cc8ae7dd" />
+
 
 
 ## Tech Stack
