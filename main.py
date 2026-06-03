@@ -5,7 +5,7 @@ import json
 
 app = Flask(__name__)
 
-client = genai.Client(api_key="Insert your API key here.")
+client = genai.Client(api_key="YOUR_API_KEY_HERE")
 
 def analyze_transactions(df):
     transactions_text = df.to_string(index=False)
