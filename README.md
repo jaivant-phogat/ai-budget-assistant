@@ -20,7 +20,6 @@ Upload a CSV export from your bank and the app automatically:
 <img width="708" height="1426" alt="image" src="https://github.com/user-attachments/assets/5e6cce48-aaea-44bf-9ef9-bb53cc8ae7dd" />
 
 
-
 ## Tech Stack
 
 - **Python** — Flask backend, Pandas for CSV processing
